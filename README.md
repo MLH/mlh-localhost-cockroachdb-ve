@@ -1,7 +1,7 @@
 # MLH Localhost: Building Scalable Apps w/ CockroachDB
 
-This repositiory contains the sample code from the [MLH Localhost: Hacking
-with CockroachDB][3] workshop.
+This repository contains the sample code from the [MLH Localhost: Hacking
+with CockroachDB Using a Virtual Environment][3] workshop.
 
 ## Sample Code / Downloads
 
@@ -33,7 +33,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
 ```
-[1]: https://github.com/MLH/mlh-localhost-cockroachdb
-[2]: https://github.com/MLH/mlh-localhost-cockroachdb/archive/master.zip
+[1]: https://github.com/MLH/mlh-localhost-cockroachdb-ve
+[2]: https://github.com/MLH/mlh-localhost-cockroachdb-ve/archive/master.zip
 [3]: https://localhost.mlh.io/activities/intro-to-cockroachdb/
 [4]: http://mlhlocal.host/cockroachdb-demo
